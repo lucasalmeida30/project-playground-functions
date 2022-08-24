@@ -1,17 +1,24 @@
 // Desafio 1
-function compareTrue() {
-  // seu código aqui
+function compareTrue(param1, param2) {
+   if(param1 && param2 === true){
+    return true
+   }
+    return false
 }
 
 // Desafio 2
-function calcArea() {
-  // seu código aqui
+function calcArea(base, altura) {
+  return base * altura / 2
 }
 
 // Desafio 3
-function splitSentence() {
-  // seu código aqui
+
+function splitSentence(frase){
+ const palavras = frase.split(" ", 3)
+  
+  return palavras
 }
+
 
 // Desafio 4
 function concatName() {
