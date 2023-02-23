@@ -1,6 +1,7 @@
 // Desafio 11
-function generatePhoneNumber() {
-  // seu código aqui
+function generatePhoneNumber(numberArray) {
+   
+
 }
 
 // Desafio 12

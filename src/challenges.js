@@ -110,7 +110,6 @@ if (tech.length === 0) {
 
 }
 
-console.log(techList(['python', 'javascript', 'java', 'c++'], 'Gustavo'))
 
 module.exports = {
   calcArea,
